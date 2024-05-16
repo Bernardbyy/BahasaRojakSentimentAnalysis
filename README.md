@@ -34,3 +34,11 @@ Model Results:<br>
 | Model V3  | 0.794     | 0.703| 0.691  | 0.802| 0.739    | 0.749| 0.744    |
 | Model V4  | 0.861     | 0.833| 0.802  | 0.884| 0.831    | 0.858| 0.845    |
 
+Web Application to Test out the Sentiment Analysis Model (w/ Twitter Web Scraping):<br>
+Scrap tweets related to "britneyspears":<br>
+![image](https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis/assets/75737130/aaf773ea-a43f-428c-a3b3-c86804748508)
+
+Inference Results:<br>
+![image](https://github.com/Bernardbyy/BahasaRojakSentimentAnalysis/assets/75737130/7a4712e1-0891-4fa4-ba13-41b9f434069c)
+
+
